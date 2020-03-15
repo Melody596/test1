@@ -35,3 +35,4 @@ plt.bar(x = total.index.values,height = total['school'],color = 'red',
 plt.ylabel('人数（人）')
 plt.legend(loc = 'best')
 plt.show()
+
